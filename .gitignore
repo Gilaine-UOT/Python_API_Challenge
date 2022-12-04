@@ -27,6 +27,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+weather_api_key
 api_keys.py
 
 # PyInstaller
